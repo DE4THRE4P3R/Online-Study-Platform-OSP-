@@ -6,3 +6,5 @@ Instructions :
   3. Access the login page my pasting "localhost/school/public/" 
   4. Enter the email and password of admin to enter 
 
+The Unit Testing was done using PHPUNIT on the model classes of the project, everything working correctly.
+
